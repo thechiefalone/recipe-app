@@ -57,7 +57,6 @@ const App = () => {
             ingredients={recipe.recipe.ingredients}
           />
         ))}
-        ;
       </div>
     </div>
   );
